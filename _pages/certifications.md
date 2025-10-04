@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: "Certifications & Learning"
 permalink: /certifications/
+author_profile: true
 ---
 
 # 🎓 Certifications & Learning
