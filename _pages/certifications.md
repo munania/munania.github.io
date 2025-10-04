@@ -11,10 +11,10 @@ Tracking my cybersecurity education, training, and continuous learning journey.
 
 ---
 
-## 🎯 Current Learning
-- **Google Cybersecurity Professional Certificate** *(In Progress)*  
-- **TryHackMe Learning Paths:** Pre-Security, Jr. Penetration Tester  
-- **Hack The Box:** Fundamentals Track  
+## 🎯 Current Learning 
+- **TryHackMe Learning Paths:** Jr. Penetration Tester  
+- **Hack The Box:**  Jr. CyberSecurity Analyst (In progres...)
+- **Cisco:** Ethical Hacker:(In Progress...)
 
 ---
 
