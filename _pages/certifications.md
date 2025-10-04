@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Certifications & Learning"
+permalink: /certifications/
 ---
 
 # 🎓 Certifications & Learning
