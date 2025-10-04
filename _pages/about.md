@@ -1,9 +1,25 @@
 ---
-permalink: /about/
+layout: default
 title: "About"
 ---
 
-## 👨‍💻 About Me  
-I am a Computer Science graduate passionate about **cybersecurity, penetration testing, and secure software development**. With hands-on experience in **frontend development, system support, and UI/UX design**, I am pivoting towards a security-focused career where I can apply my problem-solving, coding, and system analysis skills to defend and test modern infrastructures.  
+# 🙋‍♂️ About Me
+
+I’m **Dennis Munania**, a software developer transitioning into **cybersecurity and penetration testing**.  
+My background in software development, data systems, and open-source projects has shaped my approach to security — understanding how systems are built, so I can better secure and test them.
+
+I enjoy solving complex challenges, automating tasks, and exploring vulnerabilities in a safe, ethical manner.
 
 ---
+
+## ⚙️ Technical Interests
+- Penetration Testing & Vulnerability Assessment  
+- Secure Software Development  
+- Threat Detection & Analysis  
+- Network Security  
+
+---
+
+📫 **Contact:** [munaniadeno@gmail.com](mailto:munaniadeno@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/dennis-munania-mobile-developer](https://www.linkedin.com/in/dennis-munania-mobile-developer)  
+🔗 **GitHub:** [github.com/munania](https://github.com/munania)
