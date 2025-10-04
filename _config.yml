@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Portfolio showcasing my journey into cybersecurity, penetration testing, and secure software development projects.
 twitter_username: _munania
 github_username: munania
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
