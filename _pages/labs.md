@@ -21,7 +21,7 @@ Hands-on cybersecurity and pentesting practice — building practical skills thr
 ---
 
 ## 🧰 Home Lab Setup
-- Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap  
+- Kali Linux, REMnux, FlareVM, Metasploit, Burp Suite, Wireshark, Nmap  
 - Practicing safe environments for vulnerability testing and exploitation.
 
 ---
