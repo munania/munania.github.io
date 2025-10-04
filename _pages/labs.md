@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: single
 title: "Labs"
 permalink: /labs/
+author_profile: true
 ---
 
 # 🧠 Labs
