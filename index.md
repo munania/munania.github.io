@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 ---
 
-# Dennis Munania  
 **Aspiring Security Analyst | Pentester | Software Developer**  
 
 📍 Nairobi, Kenya  
