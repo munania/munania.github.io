@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Dennis Munania"
-  avatar : "/assets/images/profile.jpg"
+  avatar : "/assets/images/photo.jpg"
   bio    : ""
   links:
     - label: "Website"
